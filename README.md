@@ -1,6 +1,3 @@
-Here's the step-by-step documentation for your mini project: **Terraform Modules - VPC and S3 Bucket with Backend Storage**.
-
-```markdown
 # Mini Project: Terraform Modules - VPC and S3 Bucket with Backend Storage
 
 ## Purpose
@@ -148,6 +145,3 @@ The purpose of this project is to create a modularized Terraform configuration t
 2. **Challenges:**
    - Ensure that the S3 bucket used for backend storage exists before running `terraform init`.
    - Be cautious when specifying the `region` and `bucket` in the backend configuration to avoid potential issues with accessing the S3 bucket.
-```
-
-This markdown document provides a structured guide to completing the project step by step.
